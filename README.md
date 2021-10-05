@@ -1,2 +1,2 @@
 # T Rex Dino Game
- T-Rex Dinosaur Game using Python
+Find main.py for the code
